@@ -1,4 +1,4 @@
 package Magazin2.Decorator;
 
-public class DiscountMagazin {
+public class MagazinDecorat {
 }
