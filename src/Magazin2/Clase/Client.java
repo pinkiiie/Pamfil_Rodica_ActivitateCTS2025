@@ -2,7 +2,7 @@ package Magazin2.Clase;
 
 import Magazin2.Interfaces.IClient;
 
-public class Client {
+public class Client implements IClient {
     private String nume;
     private String adresa;
     private String email;
