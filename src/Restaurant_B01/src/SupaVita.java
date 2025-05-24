@@ -1,3 +1,5 @@
+package Restaurant_B01.src;
+
 class SupaVita implements ISupa {
     @Override
     public void prepara() {

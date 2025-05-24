@@ -1,3 +1,5 @@
+package Restaurant_B01.src;
+
 public class SupaFactory {
     public static ISupa createSupa(TipSupa tip) {
         switch (tip) {
